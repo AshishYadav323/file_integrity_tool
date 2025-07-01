@@ -60,18 +60,16 @@ Python 3.6+
 Tkinter (comes pre-installed with Python)
 
 ✅ How to Run
-Clone this repository
+⬇️
+Copy the given code
+⬇️
+copy this for GUI ➡️👉 (python file_integrity_monitor_gui.py)    ....IN LAST 
+⬇️
+create a folder in Visual studio code and save the code with .py and paste
+⬇️
+RUN
 
-bash
-Copy
-Edit
-git clone https://github.com/your-username/FileIntegrityMonitor.git
-cd FileIntegrityMonitor
-Run the script
 
-bash
-Copy
-Edit
 python file_integrity_monitor.py
 📷 GUI Preview
 (Optional: Add screenshots of your app here)
